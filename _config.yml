@@ -1,0 +1,28 @@
+name: Fjara
+favicon: null
+layout_spectrum: 0.4888105185236782
+typography_spectrum: 0.15724518871866167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2045287594664842
+  lightness: 0.4225631549488753
+  saturation: 0.842737375991419
+  rhythmicContrast: 0.49597502080723643
+purpose: []
