@@ -1,7 +1,7 @@
 name: Fjarå
 favicon: null
-layout_spectrum: 0.4888105185236782
-typography_spectrum: 0.15724518871866167
+layout_spectrum: 0
+typography_spectrum: 0.10903
 title: Fjarå
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#f8efe6'
     - '#77482c'
     - '#371c07'
-  brandStrength: 0.2045287594664842
+  brandStrength: 0.8125
   lightness: 0
   saturation: 0.6875
   rhythmicContrast: 0.75
